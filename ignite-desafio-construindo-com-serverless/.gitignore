@@ -1,0 +1,6 @@
+node_modules
+.webpack
+.serverless
+.dynamodb
+yarn-error.log
+certificate.pdf
