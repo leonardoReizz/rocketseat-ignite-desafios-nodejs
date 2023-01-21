@@ -30,7 +30,7 @@
 
 ### Chapter V
 
-- [Desafio 01 - Transferencias com FinAPI](https://github.com/leonardoReizz/rocketseat-ignite-desafios-nodejs/tree/main/ignite-desafio-transfer%C3%AAncias-com-a-FinAPI)]
+- [Desafio 01 - Transferencias com FinAPI](https://github.com/leonardoReizz/rocketseat-ignite-desafios-nodejs/tree/main/ignite-desafio-transfer%C3%AAncias-com-a-FinAPI)
 
 ### Chapter VI
 
